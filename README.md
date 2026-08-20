@@ -5,8 +5,8 @@
 ## Kurulum
 
 ```bash
-git clone git@github.com:ardaElibol675/convert-md.git
-cd convert-md
+git clone git@github.com:ardaElibol675/Conver-to-MD.git
+cd Conver-to-MD
 ./install.sh
 ```
 
